@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://roniyahya.github.io/atom.xml" rel="self"/>
   <link href="http://roniyahya.github.io/"/>
-  <updated>2015-10-15T01:16:10+07:00</updated>
+  <updated>2015-10-15T01:19:57+07:00</updated>
   <id>http://roniyahya.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Cara Install SSH]]></title>
-    <link href="http://roniyahya.github.io/blog/2015/10/15/cara-install-ssh/.html"/>
+    <link href="http://roniyahya.github.io/blog/2015/10/15/cara-install-ssh.html"/>
     <updated>2015-10-15T01:15:57+07:00</updated>
-    <id>http://roniyahya.github.io/blog/2015/10/15/cara-install-ssh/cara-install-ssh</id>
+    <id>http://roniyahya.github.io/blog/2015/10/15/cara-install-ssh</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
